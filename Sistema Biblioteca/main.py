@@ -16,8 +16,6 @@ ctk.set_default_color_theme("blue")
 
 class BibliotecaUI:
 
-    # Regra prática de biblioteca: limite de exemplares simultâneos por usuário.
-    # Evita que um único leitor monopolize o acervo. Ajuste livremente aqui.
     LIMITE_EMPRESTIMOS_POR_USUARIO = 3
 
     def __init__(self, root):

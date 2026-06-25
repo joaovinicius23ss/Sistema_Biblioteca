@@ -12,16 +12,16 @@
             "id_livro": 2,
             "titulo": "Alice no País das Maravilhas",
             "autor": "Lewis Carroll",
-            "disponivel": true,
-            "id_usuario_atual": null,
+            "disponivel": false,
+            "id_usuario_atual": 2,
             "data_cadastro": null
         },
         {
             "id_livro": 3,
             "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
             "autor": "J.R.R. Tolkien",
-            "disponivel": true,
-            "id_usuario_atual": null,
+            "disponivel": false,
+            "id_usuario_atual": 3,
             "data_cadastro": null
         },
         {
@@ -44,8 +44,8 @@
             "id_livro": 6,
             "titulo": "Harry Potter e a Pedra Filosofal",
             "autor": "J.K. Rowling",
-            "disponivel": true,
-            "id_usuario_atual": null,
+            "disponivel": false,
+            "id_usuario_atual": 2,
             "data_cadastro": null
         },
         {
@@ -220,9 +220,30 @@
             "id_usuario": 7,
             "nome": "Lucas",
             "data_cadastro": null
+        },
+        {
+            "id_usuario": 8,
+            "nome": "Patrick de Paula",
+            "data_cadastro": "25/06/2026 17:31"
         }
     ],
-    "emprestimos": [],
+    "emprestimos": [
+        {
+            "id_usuario": 2,
+            "id_livro": 2,
+            "data_emprestimo": "25/06/2026 17:29"
+        },
+        {
+            "id_usuario": 3,
+            "id_livro": 3,
+            "data_emprestimo": "25/06/2026 17:29"
+        },
+        {
+            "id_usuario": 2,
+            "id_livro": 6,
+            "data_emprestimo": "25/06/2026 17:30"
+        }
+    ],
     "historico": [
         {
             "id": 1,
@@ -234,6 +255,50 @@
             "data_emprestimo": "Não informado",
             "data_devolucao": "25/06/2026 17:20",
             "status": "Devolvido"
+        },
+        {
+            "id": 2,
+            "id_livro": 2,
+            "titulo": "Alice no País das Maravilhas",
+            "autor": "Lewis Carroll",
+            "id_usuario": 2,
+            "nome_usuario": "Ana Maria Silva",
+            "data_emprestimo": "25/06/2026 17:29",
+            "data_devolucao": null,
+            "status": "Emprestado"
+        },
+        {
+            "id": 3,
+            "id_livro": 3,
+            "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+            "autor": "J.R.R. Tolkien",
+            "id_usuario": 3,
+            "nome_usuario": "Pedro Henrique Santos",
+            "data_emprestimo": "25/06/2026 17:29",
+            "data_devolucao": null,
+            "status": "Emprestado"
+        },
+        {
+            "id": 4,
+            "id_livro": 1,
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "id_usuario": 1,
+            "nome_usuario": "João Vinícius",
+            "data_emprestimo": "25/06/2026 17:30",
+            "data_devolucao": "25/06/2026 17:32",
+            "status": "Devolvido"
+        },
+        {
+            "id": 5,
+            "id_livro": 6,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "autor": "J.K. Rowling",
+            "id_usuario": 2,
+            "nome_usuario": "Ana Maria Silva",
+            "data_emprestimo": "25/06/2026 17:30",
+            "data_devolucao": null,
+            "status": "Emprestado"
         }
     ]
 }
