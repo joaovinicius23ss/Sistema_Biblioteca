@@ -1,0 +1,239 @@
+{
+    "livros": [
+        {
+            "id_livro": 1,
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 2,
+            "titulo": "Alice no País das Maravilhas",
+            "autor": "Lewis Carroll",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 3,
+            "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+            "autor": "J.R.R. Tolkien",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 4,
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 5,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 6,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "autor": "J.K. Rowling",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 7,
+            "titulo": "O Alquimista",
+            "autor": "Paulo Coelho",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 8,
+            "titulo": "O Hobbit",
+            "autor": "J.R.R. Tolkien",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 9,
+            "titulo": "Orgulho e Preconceito",
+            "autor": "Jane Austen",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 10,
+            "titulo": "A Menina que Roubava Livros",
+            "autor": "Markus Zusak",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 11,
+            "titulo": "O Código Da Vinci",
+            "autor": "Dan Brown",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 12,
+            "titulo": "A Culpa é das Estrelas",
+            "autor": "John Green",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 13,
+            "titulo": "Cem Anos de Solidão",
+            "autor": "Gabriel García Márquez",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 14,
+            "titulo": "Ensaio Sobre a Cegueira",
+            "autor": "José Saramago",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 15,
+            "titulo": "O Retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 16,
+            "titulo": "O Caçador de Pipas",
+            "autor": "Khaled Hosseini",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 17,
+            "titulo": "Admirável Mundo Novo",
+            "autor": "Aldous Huxley",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 18,
+            "titulo": "Frankenstein",
+            "autor": "Mary Shelley",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 19,
+            "titulo": "Moby Dick",
+            "autor": "Herman Melville",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 20,
+            "titulo": "O Grande Gatsby",
+            "autor": "F. Scott Fitzgerald",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 21,
+            "titulo": "A Metamorfose",
+            "autor": "Franz Kafka",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 22,
+            "titulo": "Sherlock Holmes: Um Estudo em Vermelho",
+            "autor": "Arthur Conan Doyle",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        },
+        {
+            "id_livro": 23,
+            "titulo": "A metamorfose",
+            "autor": "Franz Kafka",
+            "disponivel": true,
+            "id_usuario_atual": null,
+            "data_cadastro": null
+        }
+    ],
+    "usuarios": [
+        {
+            "id_usuario": 1,
+            "nome": "João Vinícius",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 2,
+            "nome": "Ana Maria Silva",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 3,
+            "nome": "Pedro Henrique Santos",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 4,
+            "nome": "Beatriz Oliveira",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 5,
+            "nome": "Carlos Eduardo Lima",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 6,
+            "nome": "Marcelo Amaral",
+            "data_cadastro": null
+        },
+        {
+            "id_usuario": 7,
+            "nome": "Lucas",
+            "data_cadastro": null
+        }
+    ],
+    "emprestimos": [],
+    "historico": [
+        {
+            "id": 1,
+            "id_livro": 1,
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "id_usuario": 1,
+            "nome_usuario": "João Vinícius",
+            "data_emprestimo": "Não informado",
+            "data_devolucao": "25/06/2026 17:20",
+            "status": "Devolvido"
+        }
+    ]
+}
