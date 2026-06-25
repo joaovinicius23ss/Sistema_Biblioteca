@@ -241,10 +241,6 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 
 ## 👤 Autor
 
-Desenvolvido com 📚 e ☕ para facilitar a gestão de bibliotecas reais.
-
-<div align="center">
-
-**Se este projeto foi útil, considere deixar uma ⭐!**
+Desenvolvido por: João Vinícius
 
 </div>
